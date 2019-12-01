@@ -1,0 +1,13 @@
+C:\Users\gamer\source\repos\MultiMediaApp\MultiMediaApp\MultiMediaApp\bin\Debug\netstandard2.0\MultiMediaApp.deps.json
+C:\Users\gamer\source\repos\MultiMediaApp\MultiMediaApp\MultiMediaApp\bin\Debug\netstandard2.0\MultiMediaApp.dll
+C:\Users\gamer\source\repos\MultiMediaApp\MultiMediaApp\MultiMediaApp\bin\Debug\netstandard2.0\ref\MultiMediaApp.dll
+C:\Users\gamer\source\repos\MultiMediaApp\MultiMediaApp\MultiMediaApp\bin\Debug\netstandard2.0\MultiMediaApp.pdb
+C:\Users\gamer\source\repos\MultiMediaApp\MultiMediaApp\MultiMediaApp\obj\Debug\netstandard2.0\MultiMediaApp.csprojAssemblyReference.cache
+C:\Users\gamer\source\repos\MultiMediaApp\MultiMediaApp\MultiMediaApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\gamer\source\repos\MultiMediaApp\MultiMediaApp\MultiMediaApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\gamer\source\repos\MultiMediaApp\MultiMediaApp\MultiMediaApp\obj\Debug\netstandard2.0\MultiMediaApp.AssemblyInfoInputs.cache
+C:\Users\gamer\source\repos\MultiMediaApp\MultiMediaApp\MultiMediaApp\obj\Debug\netstandard2.0\MultiMediaApp.AssemblyInfo.cs
+C:\Users\gamer\source\repos\MultiMediaApp\MultiMediaApp\MultiMediaApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\gamer\source\repos\MultiMediaApp\MultiMediaApp\MultiMediaApp\obj\Debug\netstandard2.0\MultiMediaApp.dll
+C:\Users\gamer\source\repos\MultiMediaApp\MultiMediaApp\MultiMediaApp\obj\Debug\netstandard2.0\ref\MultiMediaApp.dll
+C:\Users\gamer\source\repos\MultiMediaApp\MultiMediaApp\MultiMediaApp\obj\Debug\netstandard2.0\MultiMediaApp.pdb
